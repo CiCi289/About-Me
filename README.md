@@ -26,7 +26,7 @@
        instagram: @aironap289_ <br>
        twitter: @ci_htin (Ci Htin Aung) <br>
        
-- 🤠  Yo would like to see my projects, practice projects?
+- 🤠  You would like to see my projects, practice projects?
 - Here is my codepen link: https://codepen.io/airon-pierce/projects/
   <br> Feel free to give comment and constructive criticism to me. 🧡💛💚💙
        
