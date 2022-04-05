@@ -17,7 +17,7 @@
   I love seeing the code line i wrote being rendere as visuals on web browser so much. I would love it more if i can do it functional and helpful for others.
   May be this could be my passion on Web design and development.
 
-- 💞️ I’m looking to collaborate on basic HTML, CSS related things. Well, as i am quite newbie.
+- 💞️ I’m looking to collaborate on basic HTML, CSS, JS related things. Well, as i am quite newbie.
 
 - 📫 How to reach me ...<br>
 - 😀  You can reach me out on <br>
