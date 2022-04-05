@@ -11,7 +11,7 @@
 - 😁  In 2020 and 2021, i was a 3D artist. I was learning 3d, making 3d artworks, learning abit of 2D on one hand and making some new friends in Comics & 3D field,
   collaborating in two large Comic book projects as a Previz, 3d layout and composition artist for my Comics artist friends. 
   And Yes, the Comics book "Crimson Hill" was released in 2021 from our group, Tale Machine. You can check it out. <br><br>
-      My Elder brother is a Software Engineer and Web Developer. He introduced me to Figma during end of 2021 while universities were 
+      My Elder brother introduced me to Figma during end of 2021 while universities were 
   still shut down due to Covid-19 and Coup in my country. I realized i love making Website Designs prototypes for both Desktop and Mobiles. 
   I started learning Design Principles on the other hand. And like that... I started learning HTML and CSS on January, 2022. 
   I love seeing the code line i wrote being rendere as visuals on web browser so much. I would love it more if i can do it functional and helpful for others.
